@@ -1,0 +1,744 @@
+{
+  "total_spent": 9000,
+  "year": [
+    {
+      "year": "2023",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    }
+  ],
+  "month": [
+    {
+      "month": "January",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    }
+  ],
+  "Week": [
+    {
+      "day": "Sunday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "Monday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "wednesday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "categories": [
+        {
+          "name": "Shopping",
+          "transaction": "73",
+          "color": "0xff8e9bc5",
+          "spent": 3500
+        },
+        {
+          "name": "Wellnes",
+          "transaction": "73",
+          "color": "0xffa0d2c1",
+          "spent": 1750
+        },
+        {
+          "name": "Transport",
+          "transaction": "73",
+          "color": "0xffffb0b6",
+          "spent": 875
+        },
+        {
+          "name": "Bars & Resturant",
+          "transaction": "73",
+          "color": "0xffffc2a5",
+          "spent": 437.5
+        },
+        {
+          "name": "Subscriptions",
+          "transaction": "73",
+          "color": "0xffc0c0de",
+          "spent": 4186
+        }
+      ]
+    }
+  ]
+}
